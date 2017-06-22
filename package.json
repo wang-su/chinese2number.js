@@ -1,7 +1,7 @@
 {
   "name": "chinese2number",
   "version": "1.0.0",
-  "description": "chinese number to number ",
+  "description": "chinese number to number, 将中文数字转换为纯数字. ",
   "main": "chinese2number.js",
   "directories": {
     "test": "test"
