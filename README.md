@@ -3,10 +3,11 @@ chinese number to number
 
 中文数字转换为数字. 
 
+~~~
+
 const assert = require('assert');
 const chinese2Number = require('chinese2number');
 
-~~~
 // test code.
 assert.equal(10, chinese2Number("十"))
 assert.equal(15, chinese2Number("十五"))
@@ -22,4 +23,5 @@ assert.equal(150001151, chinese2Number("一亿五千万一千一百五十一"))
 assert.equal(134567892, chinese2Number('一亿三千四百五十六万七千八百九十二'));
 assert.equal(130507890, chinese2Number('一亿三千零五十万七千八百九十'));
 assert.equal(134567891, chinese2Number('一亿三千四百五十六万七千八百九十一'));
+
 ~~~
