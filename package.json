@@ -1,0 +1,26 @@
+{
+  "name": "chinese2number",
+  "version": "1.0.0",
+  "description": "chinese number to number ",
+  "main": "chinese2number.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test_chinese2number.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-su/chinese2number.js.git"
+  },
+  "keywords": [
+    "chinesenumber",
+    "chinese"
+  ],
+  "author": "wangsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wang-su/chinese2number.js/issues"
+  },
+  "homepage": "https://github.com/wang-su/chinese2number.js#readme"
+}
